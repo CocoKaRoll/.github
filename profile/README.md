@@ -10,7 +10,7 @@
 | 项目 | 内容 |
 | :--- | :--- |
 | 📍 坐标 | 中国 · 北京 |
-| 🎀 主理人 | https://github.com/CocoKaRollDev |
+| 🎀 主理人 | https://github.com/CocoKaRollTeam |
 | 🏢 团队组织 | https://github.com/CocoKaRoll |
 | ☕ 氛围 | 写代码，也写温柔 |
 
